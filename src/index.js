@@ -3,6 +3,9 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
+import Counter from './components/Counter'
+import Counterss from './components/Counterss'
+import 'bootstrap/dist/css/bootstrap.css'
 
 ReactDOM.render(
   <React.StrictMode>
